@@ -1,0 +1,2 @@
+For this analysis the following libraries have been necessary: Pandas: for data manipulation 
+and analysis, NumPy, Matploitlib: for graphics and data visualization and Seaborn.
